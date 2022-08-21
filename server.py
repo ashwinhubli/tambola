@@ -71,7 +71,7 @@ def acceptConnections():
 
 def setup():
     print("\n")
-    print("\t\t\t\t\t\t*** LUDO LADDER ***")
+    print("\t\t\t\t\t\t*** TAMBOLA ***")
 
 
     global SERVER
